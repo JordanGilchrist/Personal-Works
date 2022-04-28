@@ -1,0 +1,37 @@
+html {
+    background-color: #c6d4e1;
+}
+
+header img {
+    float: left;
+    background: #555;
+}
+
+header h1 {
+    position: relative;
+    top: 18px;
+    left: 50px;
+}
+header a {
+    position: relative;
+    font-size: 25px;
+    left: 1500px;
+    padding-right: 20px;
+    top: -32px;
+}
+
+p{
+    margin-left: 50px;
+}
+
+div {
+    margin-top: 50px;
+}
+
+div h1 {
+    text-align: center;
+}
+
+button {
+    margin-top: 50px;
+}
